@@ -3,7 +3,7 @@
 - *🗡️Game*  
 - *💪Fitness*  
 - *✔️Code*  
-![image](wallhaven-6d7xmx.jpg)
+![image](wallhaven-2yjlvy.jpg)
 
 <div align="right">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
