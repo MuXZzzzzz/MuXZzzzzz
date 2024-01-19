@@ -1,7 +1,12 @@
 ***<ins><div align="center">💔Of all weapons，the past cuts deepest.</div></ins>***
-***<ins><div align="center">💔Code</div></ins>***
-***<ins><div align="center">💔Game</div></ins>***
-***<ins><div align="center">💔Fitness</div></ins>***
+
+- *🗡️Game*  
+  
+
+- *💪Fitness*  
+  
+
+- *✔️Code*  
 
 ![image](wallhaven-l8r1l2.jpg)
 <div align="left">  
@@ -10,3 +15,4 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>
 
+***<ins><div align="right">My life and work are all unreal</div></ins>***  
