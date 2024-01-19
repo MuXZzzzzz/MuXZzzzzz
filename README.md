@@ -1,5 +1,7 @@
 ***<ins><div align="center">💔Of all weapons，the past cuts deepest.</div></ins>***
-
+***<ins><div align="center">💔Code</div></ins>***
+***<ins><div align="center">💔Game</div></ins>***
+***<ins><div align="center">💔Fitness</div></ins>***
 
 ![image](wallhaven-l8r1l2.jpg)
 <div align="left">  
